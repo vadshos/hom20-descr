@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(10,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(16,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(25,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(26,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(29,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\home work 20\Source.cpp(30,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  home work 20.vcxproj -> D:\Study IT STEP academy\HomeWork\c++ basic\home work 20\Debug\home work 20.exe
